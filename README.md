@@ -19,3 +19,6 @@ Hold，即玩家在想要跳過目前正在落下的方塊時，可以按c鍵保
 本組透過IF-ELSE判斷式，FOR迴圈，WHILE迴圈，自定義函數，類別，及LIBRARY寫出了我們的程式
 
 透過大量FOR迴圈及大量IF-ELSE之邏輯，並利用大量def定義需要的function，寫出我們的程式
+
+###### producted by 林晏如 林育葶 黃佳文 劉盈妤 林芊
+
