@@ -23,7 +23,7 @@ http://webfish-channel.blogspot.com/2017/11/python.html
 本組特別重要的一段程式之用途為讓方塊能夠旋轉
 方式為透過dictionary的方式將方塊之型態放入，總共有七種原型，分別為10、20、30、40、50、60、70，如下圖一所示：
 ![Alt text](https://i.ibb.co/TYHD4K9/15.png)
-![Alt text](https://i.ibb.co/xHx1W2D/13.png)
+![Alt text](https://i.ibb.co/C24hQcV/16.png)
 
 旋轉過後的型態則改變尾數，以40的方塊為例，旋轉後的型態則方別有41、42、43
 ![Alt text](https://i.ibb.co/47xtC7Z/14.png)
