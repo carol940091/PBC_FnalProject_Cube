@@ -15,10 +15,24 @@ Hold，即玩家在想要跳過目前正在落下的方塊時，可以按c鍵保
 顏色，當方塊每次降落至底部時，所有方塊都會依照所掉落的方塊而變色，方塊總共七種型態，因此共七種顏色
 時間，遊戲時間為120秒，當玩家死掉重玩時，時間會重置並從0秒開始計算，遊戲時間到達100秒時，時間字體會變成紅色，提醒玩家注意時間，而到達120秒時，會直接結束遊戲（使用pygame.time.get_ticks()）
 # 三、演算法
-
 本組透過IF-ELSE判斷式，FOR迴圈，WHILE迴圈，自定義函數，類別，及LIBRARY寫出了我們的程式
 
-透過大量FOR迴圈及大量IF-ELSE之邏輯，並利用大量def定義需要的function，寫出我們的程式
+# 四、如何讓方塊旋轉
+http://webfish-channel.blogspot.com/2017/11/python.html
+
+本組特別重要的一段程式之用途為讓方塊能夠旋轉
+方式為透過dictionary的方式將方塊之型態放入，總共有七種原型，分別為10、20、30、40、50、60、70，如下圖一所示：
+![Alt text](https://i.ibb.co/TYHD4K9/15.png)
+![Alt text](https://i.ibb.co/xHx1W2D/13.png)
+
+旋轉過後的型態則改變尾數，以40的方塊為例，旋轉後的型態則方別有41、42、43
+![Alt text](https://i.ibb.co/47xtC7Z/14.png)
+
+# 五、截圖展示
+![Alt text](https://i.ibb.co/mDdwZ2T/10.png)
+![Alt text](https://i.ibb.co/NSVQhMP/8.png)
+
+
 
 ###### producted by 林晏如 林育葶 黃佳文 劉盈妤 林芊
 
